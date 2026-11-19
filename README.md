@@ -1,2 +1,1 @@
-# Shilpa
-Shilpa Atelier: an Indian sculpture gallery website featuring Hoysala temple art, with a cursor-driven dither-to-colour reveal effect.
+Shilpa Atelier is a visual gallery website that celebrates Indian temple sculpture, featuring statues from the Hoysala temples at Halebidu and Belur. Each sculpture appears in a dithered, monochrome style and reveals its full colour as you move your cursor over it. The site has four gallery pages, a peacock teal, crimson, indigo and marigold palette, and large images with smooth animations.
